@@ -14,7 +14,7 @@ To run this project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/alana-richard-vue-resume.git
+git clone https://github.com/ryansandbox/alana-richard-vue-resume
 
 # Navigate into the project
 cd alana-richard-vue-resume
