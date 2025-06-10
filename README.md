@@ -1,4 +1,4 @@
-# 📝 Vue Resume Template – [Alana Richard](https://rbtutorials.github.io/alana-richard-vue-resume/#about)
+# 📝 Vue Resume Template – [Alana Richard](https://ryansandbox.github.io/alana-richard-vue-resume/)
 
 This project is a customized version of [Vue Resume Template](https://github.com/ryanbalieiro/vue-resume-template) originally developed by **Ryan Balieiro**.
 
@@ -6,7 +6,7 @@ It showcases the fictional resume of a Vue Developer named **Alana Richard**, fe
 
 ## 🚀 Live Demo
 
-[Click here](https://rbtutorials.github.io/alana-richard-vue-resume/#about) to view the live preview.
+[Click here](https://ryansandbox.github.io/alana-richard-vue-resume/) to view the live preview.
 
 ## Getting Started
 
