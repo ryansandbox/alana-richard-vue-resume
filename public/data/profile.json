@@ -18,7 +18,7 @@
     "contactOptions": [
         {
             "id": "address",
-            "value": "123 Some Street, Chicago, IL 01234",
+            "value": "123 Random Street, Chicago, IL 01234",
             "valueShort": "Chicago – IL",
             "faIcon": "fa-regular fa-map",
             "href": null
