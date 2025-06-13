@@ -8,19 +8,19 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "Hey! :) I am *Alana*!",
+                    "title": "Hey! :) I am *Alana!*",
                     "title_short": "Welcome! :)",
                     "description": null,
                     "nav_label": "About"
                 },
                 "it": {
-                    "title": "Ehi! :) Sono *Alana*!",
+                    "title": "Ehi! :) Sono *Alana!*",
                     "title_short": "Benvenuto! :)",
                     "description": null,
                     "nav_label": "Chi sono"
                 },
                 "de": {
-                    "title": "Hey! :) Ich bin *Alana*!",
+                    "title": "Hey! :) Ich bin *Alana!*",
                     "title_short": "Willkommen! :)",
                     "description": null,
                     "nav_label": "Über mich"
