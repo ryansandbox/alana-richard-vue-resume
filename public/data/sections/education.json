@@ -19,7 +19,14 @@
                         "en": {
                             "title": "Bachelor’s Degree in Software Engineering",
                             "description": "Studied software architecture, object-oriented programming, and front-end development. Participated in multiple group projects and built a solid foundation in full-stack web development with a focus on user-centric design.",
-                            "list": null,
+                            "list": {
+                                "title": "Key projects:",
+                                "items": [
+                                    "<strong>Graduation project:</strong> developed a responsive web application using HTML 5, CSS 3, and Vue.",
+                                    "Implemented a <strong>RESTful API</strong> for a group project.",
+                                    "Contributed to an open-source project focused on <strong>accessibility</strong>."
+                                ]
+                            },
                             "province": "",
                             "country": "US",
                             "institution": "University of South Florida"
@@ -27,7 +34,14 @@
                         "it": {
                             "title": "Laurea in Ingegneria del Software",
                             "description": "Ho studiato architettura del software, programmazione orientata agli oggetti e sviluppo front-end. Ho partecipato a diversi progetti di gruppo e costruito una solida base nello sviluppo web full-stack, con un’attenzione particolare al design centrato sull’utente.",
-                            "list": null,
+                            "list": {
+                                "title": "Progetti principali:",
+                                "items": [
+                                    "<strong>Progetto di laurea:</strong> sviluppato un’applicazione web responsive utilizzando HTML 5, CSS 3 e Vue.",
+                                    "Implementata un’<strong>API RESTful</strong> per un progetto di gruppo.",
+                                    "Contribuito a un progetto open-source focalizzato sull’<strong>accessibilità</strong>."
+                                ]
+                            },
                             "province": "",
                             "country": "Stati Uniti",
                             "institution": "University of South Florida"
@@ -35,7 +49,14 @@
                         "de": {
                             "title": "Bachelor in Softwaretechnik",
                             "description": "Ich habe Softwarearchitektur, objektorientierte Programmierung und Frontend-Entwicklung studiert. In mehreren Gruppenprojekten mitgewirkt und eine solide Grundlage in der Full-Stack-Webentwicklung mit Fokus auf nutzerzentriertem Design aufgebaut.",
-                            "list": null,
+                            "list": {
+                                "title": "Hauptprojekte:",
+                                "items": [
+                                    "<strong>Abschlussprojekt:</strong> Entwicklung einer responsiven Webanwendung mit HTML 5, CSS 3 und Vue.",
+                                    "Implementierung einer <strong>RESTful API</strong> für ein Gruppenprojekt.",
+                                    "Mitwirkung an einem Open-Source-Projekt mit Fokus auf <strong>Zugänglichkeit</strong>."
+                                ]
+                            },
                             "province": "",
                             "country": "USA",
                             "institution": "University of South Florida"
@@ -54,7 +75,14 @@
                         "en": {
                             "title": "Front-End Web Development Nanodegree",
                             "description": "Completed an intensive program focused on HTML, CSS, JavaScript, and modern web development practices. Built responsive web projects and gained hands-on experience with version control, accessibility, and performance optimization.",
-                            "list": null,
+                            "list": {
+                                "title": "Key projects:",
+                                "items": [
+                                    "Responsive portfolio website using <strong>HTML</strong> and <strong>CSS</strong>.",
+                                    "Interactive JavaScript application with <strong>DOM manipulation</strong>.",
+                                    "<strong>Single-page application</strong> (SPA) using Vue.js."
+                                ]
+                            },
                             "province": "Remote",
                             "country": "",
                             "institution": "Udacity"
@@ -62,7 +90,14 @@
                         "it": {
                             "title": "Nanodegree in Sviluppo Web Front-End",
                             "description": "Ho completato un programma intensivo incentrato su HTML, CSS, JavaScript e le pratiche moderne di sviluppo web. Ho realizzato progetti web responsive e acquisito esperienza pratica con il controllo di versione, l’accessibilità e l’ottimizzazione delle prestazioni.",
-                            "list": null,
+                            "list": {
+                                "title": "Progetti principali:",
+                                "items": [
+                                    "Sito web portfolio responsive utilizzando <strong>HTML</strong> e <strong>CSS</strong>.",
+                                    "Applicazione interattiva JavaScript con <strong>manipolazione del DOM</strong>.",
+                                    "<strong>Single-page application</strong> (SPA) utilizzando Vue.js."
+                                ]
+                            },
                             "province": "Online",
                             "country": "",
                             "institution": "Udacity"
@@ -70,7 +105,14 @@
                         "de": {
                             "title": "Nanodegree in Front-End-Webentwicklung",
                             "description": "Ich habe ein intensives Programm abgeschlossen, das sich auf HTML, CSS, JavaScript und moderne Webentwicklung konzentrierte. Ich habe responsive Webprojekte umgesetzt und praktische Erfahrung mit Versionskontrolle, Barrierefreiheit und Performance-Optimierung gesammelt.",
-                            "list": null,
+                            "list": {
+                                "title": "Hauptprojekte:",
+                                "items": [
+                                    "Responsives Portfolio-Website mit <strong>HTML</strong> und <strong>CSS</strong>.",
+                                    "Interaktive JavaScript-Anwendung mit <strong>DOM-Manipulation</strong>.",
+                                    "<strong>Single-Page Application</strong> (SPA) mit Vue.js."
+                                ]
+                            },
                             "province": "Online",
                             "country": "",
                             "institution": "Udacity"
@@ -92,9 +134,9 @@
                             "list": {
                                 "title": "Research topics:",
                                 "items": [
-                                    "Performance optimization in large-scale Vue.js applications.",
-                                    "State management patterns using Vuex and Composition API.",
-                                    "Progressive Web Apps (PWAs) with Vue and Service Workers."
+                                    "Performance optimization in large-scale <strong>Vue.js</strong> applications.",
+                                    "State management patterns using <strong>Vuex</strong> and <strong>Composition API</strong>.",
+                                    "<strong>Progressive Web Apps</strong> (PWAs) with Vue and Service Workers."
                                 ]
                             },
                             "province": "",
@@ -107,9 +149,9 @@
                             "list": {
                                 "title": "Temi di ricerca:",
                                 "items": [
-                                    "Ottimizzazione delle prestazioni in applicazioni Vue.js su larga scala.",
-                                    "Pattern di gestione dello stato con Vuex e Composition API.",
-                                    "Progressive Web App (PWA) con Vue e Service Workers."
+                                    "Ottimizzazione delle prestazioni in applicazioni <strong>Vue.js</strong> su larga scala.",
+                                    "Modelli di gestione dello stato utilizzando <strong>Vuex</strong> e <strong>Composition API</strong>.",
+                                    "<strong>Progressive Web Apps</strong> (PWAs) con Vue e Service Workers."
                                 ]
                             },
                             "province": "",
@@ -122,9 +164,9 @@
                             "list": {
                                 "title": "Forschungsthemen:",
                                 "items": [
-                                    "Performance-Optimierung in groß angelegten Vue.js-Anwendungen.",
-                                    "Zustandsmanagement-Muster mit Vuex und Composition API.",
-                                    "Progressive Web Apps (PWAs) mit Vue und Service Workern."
+                                    "Performance-Optimierung in groß angelegten <strong>Vue.js</strong>-Anwendungen.",
+                                    "State-Management-Muster mit <strong>Vuex</strong> und <strong>Composition API</strong>.",
+                                    "<strong>Progressive Web Apps</strong> (PWAs) mit Vue und Service Workern."
                                 ]
                             },
                             "province": "",

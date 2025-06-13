@@ -28,11 +28,11 @@
                             "description": "Ausgestellt von VueMastery: <a class='link-darkened' href='https://google.com'>Diese Zertifizierung</a> bestätigt Fähigkeiten im Erstellen mobilfreundlicher und responsiver Vue-Anwendungen."
                         },
                         "it": {
-                            "description": "Rilasciato da VueMastery, <a class='link-darkened' href='https://google.com'>certifica</a> competenze nello sviluppo di applicazioni Vue responsive e ottimizzate per dispositivi mobili."
+                            "description": "Rilasciato da VueMastery, certifica competenze nello sviluppo di applicazioni Vue responsive e ottimizzate per dispositivi mobili."
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
                     ]
                 },
                 {
@@ -51,7 +51,7 @@
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
                     ]
                 },
                 {
@@ -70,7 +70,7 @@
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
                     ]
                 },
                 {
@@ -89,7 +89,7 @@
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
                     ]
                 }
             ]
