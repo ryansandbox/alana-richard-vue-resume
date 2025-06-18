@@ -4,7 +4,7 @@
             "id": "about",
             "categoryId": "home",
             "jsonPath": "/sections/about.json",
-            "faIcon": "fa-solid fa-address-card",
+            "faIcon": "fa-regular fa-user",
             "type": "centered",
             "locales": {
                 "en": {
@@ -32,7 +32,7 @@
             "id": "education",
             "categoryId": "background",
             "jsonPath": "/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap",
+            "faIcon": "pi pi-graduation-cap",
             "type": "column",
             "locales": {
                 "en": {
@@ -60,7 +60,7 @@
             "id": "skills",
             "categoryId": "showcase",
             "jsonPath": "/sections/skills.json",
-            "faIcon": "fa-solid fa-tools",
+            "faIcon": "pi pi-wrench",
             "type": "column",
             "locales": {
                 "en": {
@@ -88,7 +88,7 @@
             "id": "experience",
             "categoryId": "background",
             "jsonPath": "/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase",
+            "faIcon": "pi pi-briefcase",
             "type": "column",
             "locales": {
                 "en": {
@@ -116,7 +116,7 @@
             "id": "portfolio",
             "categoryId": "showcase",
             "jsonPath": "/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open",
+            "faIcon": "fa-regular fa-folder-open",
             "type": "column",
             "locales": {
                 "en": {
@@ -144,7 +144,7 @@
             "id": "publications",
             "categoryId": "showcase",
             "jsonPath": "/sections/publications.json",
-            "faIcon": "fa-solid fa-scroll",
+            "faIcon": "pi pi-print",
             "type": "column",
             "locales": {
                 "en": {
@@ -172,7 +172,7 @@
             "id": "updates",
             "categoryId": "more",
             "jsonPath": "/sections/career.json",
-            "faIcon": "fa-solid fa-medal",
+            "faIcon": "pi pi-box",
             "type": "column",
             "locales": {
                 "en": {
@@ -200,7 +200,7 @@
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square",
+            "faIcon": "fa-regular fa-envelope",
             "type": "column",
             "locales": {
                 "en": {
