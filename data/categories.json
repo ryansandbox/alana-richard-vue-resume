@@ -9,7 +9,6 @@
                 "de": { "nav_label": "Startseite" }
             }
         },
-
         {
             "id": "background",
             "faIcon": "fa-regular fa-clock",
@@ -19,7 +18,6 @@
                 "de": { "nav_label": "Werdegang" }
             }
         },
-
         {
             "id": "showcase",
             "faIcon": "fa-regular fa-folder-open",
@@ -29,7 +27,6 @@
                 "de": { "nav_label": "Projekte" }
             }
         },
-
         {
             "id": "more",
             "faIcon": "fa-regular fa-object-ungroup",
