@@ -1,4 +1,8 @@
-# 📝 Vue Resume Template – [Alana Richard](https://ryansandbox.github.io/alana-richard-vue-resume/)
+<p align="center">
+    <img src="docs/assets/logo.svg" width="120">
+</p>
+
+# Vue Resume Template – [Alana Richard](https://ryansandbox.github.io/alana-richard-vue-resume/)
 
 This project is a customized version of [Vue Resume Template](https://github.com/ryanbalieiro/vue-resume-template) originally developed by **Ryan Balieiro**.
 

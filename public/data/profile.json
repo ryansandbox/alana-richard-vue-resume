@@ -21,7 +21,8 @@
             "value": "123 Random Street, Chicago, IL 01234",
             "valueShort": "Chicago – IL",
             "faIcon": "fa-regular fa-map",
-            "href": null
+            "href": null,
+            "copy": false
         },
 
         {
@@ -29,7 +30,8 @@
             "value": "alanarichard@gmail.com",
             "valueShort": "alanarichard@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:alanarichard@gmail.com"
+            "href": "mailto:alanarichard@gmail.com",
+            "copy": true
         },
 
         {
@@ -37,7 +39,8 @@
             "value": "@ryanbalieiro",
             "valueShort": "@ryanbalieiro",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/ryanbalieiro"
+            "href": "https://github.com/ryanbalieiro",
+            "copy": false
         },
 
         {
@@ -45,7 +48,8 @@
             "value": "@alanarichard",
             "valueShort": "@alanarichardl",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com/alanarichard"
+            "href": "https://instagram.com/alanarichard",
+            "copy": false
         },
 
         {
@@ -53,7 +57,8 @@
             "value": "Alana Richard",
             "valueShort": "Alana Richard",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com/alana-richard"
+            "href": "https://linkedin.com/alana-richard",
+            "copy": false
         },
 
         {
@@ -61,7 +66,8 @@
             "value": "+1 (123) 456-7890",
             "valueShort": "(123) 456-7890",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:1234567890",
+            "copy": true
         },
 
         {
@@ -69,7 +75,8 @@
             "value": "@alanarichard",
             "valueShort": "@alanarichard",
             "faIcon": "fa-brands fa-x-twitter",
-            "href": "https://x.com/alanarichard"
+            "href": "https://x.com/alanarichard",
+            "copy": false
         }
     ]
 }
